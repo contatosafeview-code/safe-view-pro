@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SafeView Pro",
+  "description": "Sistema de gestão de vendas, orçamentos e instalações para a equipe SafeView.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
